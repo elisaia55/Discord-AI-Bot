@@ -91,7 +91,6 @@ client.on("messageCreate", async (message) => {
 
     await message.reply(chunk);
   }
-
-  
 });
 client.login(process.env.TOKEN);
+ 

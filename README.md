@@ -1,6 +1,6 @@
 
 # Caeser Bot - Discord AI Chatbot 
-* Caeser Bot is a simple AI-powered chatbot that uses OpenAI's API to generate responses to user queries in Discord channels. It's designed to engage users in conversations, providing relevant and dynamic responses to text prompts.
+Caeser Bot is a simple AI-powered chatbot that uses OpenAI's API to generate responses to user queries in Discord channels. It's designed to engage users in conversations, providing relevant and dynamic responses to text prompts.
 
 ## Features
 - Custom Channel Support: Restrict the bot to specific channels for better management.

@@ -18,9 +18,9 @@ Caeser Bot is a simple AI-powered chatbot that uses OpenAI's API to generate res
 ## Installation
 1. **Clone the Repository**
 
-`
-git clone <repository-url>
-cd <repository-folder>`
+`git clone <repository-url>`
+
+`cd <repository-folder>`
 
 2. **Install Dependencies**
 
@@ -31,9 +31,9 @@ npm install`
    
 Create a .env file in the project root with the following variables:
 
-`
-TOKEN=<your_discord_bot_token>
-OPENAI_KEY=<your_openai_api_key>`
+`TOKEN=<your_discord_bot_token>`
+
+`OPENAI_KEY=<your_openai_api_key>`
 
 4. **Run the Bot**
 
